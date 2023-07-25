@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * toBinary - returns the binary equivalent 
- * of the decimal number provided as a string 
+ * toBinary - returns the binary equivalent
+ * of the decimal number provided
  * @x: Decimal number
- * Return: decimal values 
+ * Return: decimal value
 */
 
 /*if(format == 'b')*/
